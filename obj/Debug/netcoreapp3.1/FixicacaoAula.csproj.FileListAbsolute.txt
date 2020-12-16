@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\bin\Debug\netcoreapp3.1\FixicacaoAula.exe
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\bin\Debug\netcoreapp3.1\FixicacaoAula.deps.json
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\bin\Debug\netcoreapp3.1\FixicacaoAula.runtimeconfig.json
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\bin\Debug\netcoreapp3.1\FixicacaoAula.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\bin\Debug\netcoreapp3.1\FixicacaoAula.dll
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\bin\Debug\netcoreapp3.1\FixicacaoAula.pdb
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\obj\Debug\netcoreapp3.1\FixicacaoAula.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\obj\Debug\netcoreapp3.1\FixicacaoAula.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\obj\Debug\netcoreapp3.1\FixicacaoAula.AssemblyInfo.cs
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\obj\Debug\netcoreapp3.1\FixicacaoAula.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\obj\Debug\netcoreapp3.1\FixicacaoAula.dll
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\obj\Debug\netcoreapp3.1\FixicacaoAula.pdb
+C:\Users\dev\Desktop\Aula_Fixicacao\FixicacaoAula\obj\Debug\netcoreapp3.1\FixicacaoAula.genruntimeconfig.cache
